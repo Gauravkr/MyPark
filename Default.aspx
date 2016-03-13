@@ -839,28 +839,28 @@ contact a space owner. Space seeker will be charged by space owner not by Parkin
                  
                     <span class="fa fa-map-marker wc-icon"></span>
                     <h4 class="wc-tittle">SEARCH PARKING SPACES</h4>
-                <p style="visibility:hidden;">At vero eos et accusamus et iusto odio in dignissimos ducimus voluptatum in delenatque </p>
+                <%--<p style="visibility:hidden;">At vero eos et accusamus et iusto odio in dignissimos ducimus voluptatum in delenatque </p>--%>
                   </div>
                 </li>
                 <li>
                   <div class="single-wc-content wow fadeInUp">
                     <span class="fa fa-envelope wc-icon"></span>
                     <h4 class="wc-tittle">NOTIFY SPACE OWNER</h4>
-                <p style="visibility:hidden;">At vero eos et accusamus et iusto odio in dignissimos ducimus voluptatum in delenatque </p>
+                <%--<p style="visibility:hidden;">At vero eos et accusamus et iusto odio in dignissimos ducimus voluptatum in delenatque </p>--%>
                   </div>
                 </li>
                 <li>
                   <div class="single-wc-content wow fadeInUp">
-                    <span class="fa fa-exchange  -square wc-icon"></span>
+                    <span class="fa fa-exchange wc-icon"></span>
                     <h4 class="wc-tittle">NEGOTIATION</h4>
-                    <%--<p>At vero eos et accusamus et iusto odio in dignissimos ducimus voluptatum in delenatque </p>--%>
+                    <%--<p style="visibility:hidden;">At vero eos et accusamus et iusto odio in dignissimos ducimus voluptatum in delenatque </p>--%>
                   </div>
                 </li>
                 <li>
                   <div class="single-wc-content wow fadeInUp">
                     <span class="fa fa-thumbs-o-up wc-icon"></span>
                     <h4 class="wc-tittle">GET PARKING SPACE</h4>
-                  <%--  <p>At vero eos et accusamus et iusto odio in dignissimos ducimus voluptatum in delenatque </p>--%>
+                  <%--  <p style="visibility:hidden;">At vero eos et accusamus et iusto odio in dignissimos ducimus voluptatum in delenatque </p>--%>
                   </div>
                 </li>
               

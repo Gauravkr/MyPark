@@ -444,6 +444,7 @@ img{
 	display: inline;
 	width: 100%;
 	margin-top: 50px;
+    border-bottom: 1px solid #bbbbbb;
 }
 .wc-table{
 	display: inline-block;
@@ -458,25 +459,25 @@ img{
 	display: inline;
 	width: 100%;
 }
-.single-wc-content span {
-	border-radius: 100%;
-	display: inline-block;
-	font-size: 35px;
-	height: 117px;
-	line-height: 117px;
-	text-align: center;
-	width: 117px;
-	-webkit-transition: all 0.5s;
-	-moz-transition: all 0.5s;
-	-ms-transition: all 0.5s;
-	-o-transition: all 0.5s;
-	transition: all 0.5s;
-}
+    .single-wc-content span {
+        border-radius: 100%;
+        display: inline-block;
+        font-size: 35px;
+        height: 117px;
+        line-height: 117px;
+        text-align: center;
+        width: 117px;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -ms-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+    }
 .single-wc-content .wc-tittle{
 	color: #525252;
 	text-transform: uppercase;
 	font-size: 18px;
-	border-bottom: 1px solid #bbbbbb;
+	/*border-bottom: 1px solid #bbbbbb;*/
 	margin-top: 32px;
 	padding-bottom: 17px;	
 }
@@ -2288,7 +2289,7 @@ img{
 	  width: 630px;  
 	}
 	.single-wc-content .wc-tittle {
-	  font-size: 15px;	  
+	  font-size: 14px;	  
 	}
 	.about-left {  
 	  height: 328px;  
